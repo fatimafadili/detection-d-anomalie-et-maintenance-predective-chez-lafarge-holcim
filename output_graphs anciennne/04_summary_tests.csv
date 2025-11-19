@@ -1,0 +1,7 @@
+Test,Statistique,P-value,Conclusion
+ADF,-5.334960,0.000005,Stationnaire
+KPSS,0.258129,0.100000,Stationnaire
+Shapiro-Wilk,0.832541,0.000000,Non-normal
+Jarque-Bera,30729.280512,0.000000,Non-normal
+Ljung-Box,Voir détails,Voir détails,Autocorrélation présente
+Durbin-Watson,0.078008,N/A,Autocorrélation présente
